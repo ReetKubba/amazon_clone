@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408312109133",
+    "project_id": "clone-31bab",
+    "storage_bucket": "clone-31bab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408312109133:android:1fe5d7306094afb3f6e404",
+        "android_client_info": {
+          "package_name": "reet.app.amazonclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408312109133-41tmh3rvt39q1sah41bhp6nqjutr1pte.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28DalDMZPH2H4xNQoRE9Zbd-Fw0kGUHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408312109133-41tmh3rvt39q1sah41bhp6nqjutr1pte.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
